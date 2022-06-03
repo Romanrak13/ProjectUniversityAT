@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Pro-Roman-Rak.local",
+    "children" : [ {
+      "name" : "37852@MacBook-Pro-Roman-Rak.local.main(1)",
+      "children" : [ {
+        "name" : "Verify that customer is not able to add item to wishlist without login in",
+        "uid" : "6ef247165c09d4d5",
+        "parentUid" : "7c3ebd42a2d683bd9aef9a816a5a3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654260065460,
+          "stop" : 1654260069269,
+          "duration" : 3809
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify that customer is on home page",
+        "uid" : "7e8d4459e1a9a160",
+        "parentUid" : "7c3ebd42a2d683bd9aef9a816a5a3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654260016146,
+          "stop" : 1654260016368,
+          "duration" : 222
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify customer is able to login in",
+        "uid" : "8a29e5b261607668",
+        "parentUid" : "7c3ebd42a2d683bd9aef9a816a5a3b8c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654260044998,
+          "stop" : 1654260058836,
+          "duration" : 13838
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c3ebd42a2d683bd9aef9a816a5a3b8c"
+    } ],
+    "uid" : "5ddbd71fcd3ea7d8983e1ac29a69dfce"
+  } ]
+}

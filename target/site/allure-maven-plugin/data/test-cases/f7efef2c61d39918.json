@@ -1,0 +1,170 @@
+{
+  "uid" : "f7efef2c61d39918",
+  "name" : "Verify customer is able to login in",
+  "fullName" : "org.example.test.RegistrationTest.verifySuccessfulRegistrationTest",
+  "historyId" : "1d9cd334207e9bfefab9cf4d89048b8d",
+  "time" : {
+    "start" : 1654259896791,
+    "stop" : 1654259908828,
+    "duration" : 12037
+  },
+  "description" : "Test Description: Verify customer is able to login in",
+  "descriptionHtml" : "<p>Test Description: Verify customer is able to login in</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1654259890333,
+      "stop" : 1654259896776,
+      "duration" : 6443
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Verify customer is able to login in",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step: Click on Sign-in on home page",
+      "time" : {
+        "start" : 1654259896909,
+        "stop" : 1654259899408,
+        "duration" : 2499
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Step: Provide valid email for registration - profTester0.010510784688544605@gmail.com",
+      "time" : {
+        "start" : 1654259899420,
+        "stop" : 1654259899956,
+        "duration" : 536
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "emailAddress",
+        "value" : "profTester0.010510784688544605@gmail.com"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step: Click on Create Button on authenticate page",
+      "time" : {
+        "start" : 1654259899959,
+        "stop" : 1654259900638,
+        "duration" : 679
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Step: Get my account page heading",
+      "time" : {
+        "start" : 1654259908797,
+        "stop" : 1654259908827,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1654259908847,
+      "stop" : 1654259908953,
+      "duration" : 106
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.test.RegistrationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.test.RegistrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifySuccessfulRegistrationTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestNGXMLTest Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "TestNGXMLTest Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.test.RegistrationTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Roman-Rak.local"
+  }, {
+    "name" : "thread",
+    "value" : "37637@MacBook-Pro-Roman-Rak.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7efef2c61d39918.json",
+  "parameterValues" : [ ]
+}

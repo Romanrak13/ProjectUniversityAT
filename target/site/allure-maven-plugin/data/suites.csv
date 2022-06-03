@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","org.example.test.AddToWishlistTest.verifyNotAbleToAddToWishlistWithoutLoginTest","3809","Test Description: Verify that customer is not able to add item to wishlist without login in"
+"passed","org.example.test.HomePageTest.homePageTest","222","Test Description: Verify that customer is on home page"
+"failed","org.example.test.RegistrationTest.verifySuccessfulRegistrationTest","13838","Test Description: Verify customer is able to login in"

@@ -1,0 +1,61 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestNGXMLTest Test Suite",
+    "children" : [ {
+      "name" : "TestNGXMLTest Test",
+      "children" : [ {
+        "name" : "org.example.test.HomePageTest",
+        "children" : [ {
+          "name" : "Verify that customer is on home page",
+          "uid" : "7e8d4459e1a9a160",
+          "parentUid" : "e110a231e1589530fb391df13978b85b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654260016146,
+            "stop" : 1654260016368,
+            "duration" : 222
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e110a231e1589530fb391df13978b85b"
+      }, {
+        "name" : "org.example.test.RegistrationTest",
+        "children" : [ {
+          "name" : "Verify customer is able to login in",
+          "uid" : "8a29e5b261607668",
+          "parentUid" : "2721a5c15b59754a355a42a92527a7c2",
+          "status" : "failed",
+          "time" : {
+            "start" : 1654260044998,
+            "stop" : 1654260058836,
+            "duration" : 13838
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2721a5c15b59754a355a42a92527a7c2"
+      }, {
+        "name" : "org.example.test.AddToWishlistTest",
+        "children" : [ {
+          "name" : "Verify that customer is not able to add item to wishlist without login in",
+          "uid" : "6ef247165c09d4d5",
+          "parentUid" : "5bdf496ea078d162ffc7d01789c8c412",
+          "status" : "passed",
+          "time" : {
+            "start" : 1654260065460,
+            "stop" : 1654260069269,
+            "duration" : 3809
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5bdf496ea078d162ffc7d01789c8c412"
+      } ],
+      "uid" : "2b7f0b7eceb42b404be048732df39cbf"
+    } ],
+    "uid" : "8c2011bd495abb29b9158a35a758640f"
+  } ]
+}

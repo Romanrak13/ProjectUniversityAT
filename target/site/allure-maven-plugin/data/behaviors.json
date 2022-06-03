@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Verify that customer is on home page",
+    "uid" : "7e8d4459e1a9a160",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1654260016146,
+      "stop" : 1654260016368,
+      "duration" : 222
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Verify customer is able to login in",
+    "uid" : "8a29e5b261607668",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1654260044998,
+      "stop" : 1654260058836,
+      "duration" : 13838
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Verify that customer is not able to add item to wishlist without login in",
+    "uid" : "6ef247165c09d4d5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1654260065460,
+      "stop" : 1654260069269,
+      "duration" : 3809
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

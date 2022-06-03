@@ -1,0 +1,4 @@
+org/example/test/HomePageTest.class
+org/example/test/RegistrationTest.class
+org/example/test/AddToWishlistTest.class
+org/example/test/TestBase.class

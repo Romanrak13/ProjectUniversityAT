@@ -1,0 +1,31 @@
+[ {
+  "uid" : "6ef247165c09d4d5",
+  "name" : "Verify that customer is not able to add item to wishlist without login in",
+  "time" : {
+    "start" : 1654260065460,
+    "stop" : 1654260069269,
+    "duration" : 3809
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "7e8d4459e1a9a160",
+  "name" : "Verify that customer is on home page",
+  "time" : {
+    "start" : 1654260016146,
+    "stop" : 1654260016368,
+    "duration" : 222
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8a29e5b261607668",
+  "name" : "Verify customer is able to login in",
+  "time" : {
+    "start" : 1654260044998,
+    "stop" : 1654260058836,
+    "duration" : 13838
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+} ]
